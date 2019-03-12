@@ -9,5 +9,5 @@
 
 2019.3.12版本，更新： 验证码工具类
 
-相关博客
+相关博客：
 https://blog.csdn.net/lgc592519828/article/details/88424193
